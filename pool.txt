@@ -1,0 +1,9 @@
+globalminer dstm-zcash
+globalpowertune 200
+maxgputemp 85
+custompanel farmop111111
+stratumproxy enabled
+proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
+proxypool1 us1-zcash.flypool.org:3333
+proxypool2 zec.2miners.com:1010
+globalfan 85
