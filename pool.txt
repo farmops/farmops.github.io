@@ -7,4 +7,9 @@ proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
 proxypool1 us1-zcash.flypool.org:3333
 proxypool2 zec.2miners.com:1010
 globalfan 85
+loc 22ff1d a1
+loc 240855 a2
+loc c8bba2 a3
+loc c720ee a4
+loc c8bae6 a5
 loc 22fcd7 c4
