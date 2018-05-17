@@ -12,7 +12,7 @@ claymore=proxypool2 us2.ethermine.org:4444
 globalfan 85
 loc 22ff1d a1
 miner 22ff1d claymore
-mem 22ff1d 5400 +300 +300 +300 +300 +300 +300 +300 +300
+mem 22ff1d +300 +300 +300 +300 +300 +300 +300 +300
 loc 240855 a2
 loc c8bba2 a3
 loc c720ee a4
