@@ -9,6 +9,7 @@ proxypool2 zec.2miners.com:1010
 claymore=proxywallet 0xB471f53cB33c6B6108F4b5F040ef9E08bAEf6c18
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
+claymore=flags -colors 1
 globalfan 85
 loc 22ff1d a1
 miner 22ff1d claymore
