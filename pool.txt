@@ -6,8 +6,11 @@ stratumproxy enabled
 proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
 proxypool1 us1-zcash.flypool.org:3333
 proxypool2 zec.2miners.com:1010
+claymore=proxywallet 0xB471f53cB33c6B6108F4b5F040ef9E08bAEf6c18
+claymore=proxypool1 us1.ethermine.org:4444
 globalfan 85
 loc 22ff1d a1
+miner 22ff1d claymore
 loc 240855 a2
 loc c8bba2 a3
 loc c720ee a4
