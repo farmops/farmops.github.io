@@ -25,12 +25,12 @@ loc 24093e b4
 loc 240979 b5
 loc c8baec c1
 loc c8bae4 c2
-loc 04bbe6 c3
+loc c8bb01 c3
 loc 22fcd7 c4
 loc c7215d c5
 loc c8baf6 d1
 loc c8ba69 d2
-loc c8baf3 d3
+loc 04bbe6 d3
 loc c7210f d4
 loc 240832 d5
 loc c72130 e1
