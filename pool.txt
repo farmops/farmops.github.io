@@ -6,7 +6,7 @@ stratumproxy enabled
 proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
 proxypool1 us1-zcash.flypool.org:3333
 proxypool2 zec.2miners.com:1010
-claymore=proxywallet 0xB471f53cB33c6B6108F4b5F040ef9E08bAEf6c18
+claymore=proxywallet 0xdfD76534e898D9183b85a87cEb4806122A39F696
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags -colors 1
