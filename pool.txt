@@ -1,6 +1,6 @@
 globalminer claymore
 globalpowertune 200
-maxgputemp 90
+maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
 #proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
