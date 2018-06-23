@@ -10,10 +10,9 @@ claymore=proxywallet 0xdfD76534e898D9183b85a87cEb4806122A39F696
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags -colors 1
-#ccminer=proxywallet RK1oCEr1PoufKb2LEznaUp1YWgjsCgyycy
-#ccminer=proxypool1 rvn.coinfoundry.org:3172
-ccminer=proxywallet noobmining
-ccminer=proxypool1 rvn.suprnova.cc:6667
+ccminer=proxywallet RK1oCEr1PoufKb2LEznaUp1YWgjsCgyycy
+ccminer=proxypool1 us.ravenminer.com:4567
+ccminer=proxypool2 us.ravenminer.com:5678
 ccminer=flags -a x16r
 globalfan 85
 loc 22ff1d a1
