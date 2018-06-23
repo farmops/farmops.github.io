@@ -3,6 +3,7 @@ globalpowertune 200
 maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
+autoreboot 5
 dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
 dstm-zcash=proxypool1 us1-zcash.flypool.org:3333
 dstm-zcash=proxypool2 zec.2miners.com:1010
