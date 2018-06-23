@@ -3,9 +3,9 @@ globalpowertune 200
 maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
-#proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
-#proxypool1 us1-zcash.flypool.org:3333
-#proxypool2 zec.2miners.com:1010
+dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
+dstm-zcash=proxypool1 us1-zcash.flypool.org:3333
+dstm-zcash=proxypool2 zec.2miners.com:1010
 claymore=proxywallet 0xdfD76534e898D9183b85a87cEb4806122A39F696
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
@@ -49,7 +49,7 @@ pwr c8bbc2 130 130 130 130 130 130 130 130
 loc 508547 e4
 loc 22fcea f1
 pwr 22fcea 150 150 150 150 150 150 150 150
-miner 22fcea ccminer
+miner 22fcea dstm-zcash
 loc c8bae0 f2
 pwr c8bae0 130 130 130 130 130 130 130 130
 loc 4c6fbc f3
