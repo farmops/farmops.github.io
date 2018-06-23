@@ -3,17 +3,13 @@ globalpowertune 200
 maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
-dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
-dstm-zcash=proxypool1 us1-zcash.flypool.org:3333
-dstm-zcash=proxypool2 zec.2miners.com:1010
+#dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
+#dstm-zcash=proxypool1 us1-zcash.flypool.org:3333
+#dstm-zcash=proxypool2 zec.2miners.com:1010
 claymore=proxywallet 0xdfD76534e898D9183b85a87cEb4806122A39F696
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags -colors 1
-ccminer=proxywallet RK1oCEr1PoufKb2LEznaUp1YWgjsCgyycy
-ccminer=proxypool1 us.ravenminer.com:4567
-ccminer=proxypool2 us.ravenminer.com:5678
-ccminer=flags -a x16r
 globalfan 85
 loc 22ff1d a1
 miner 22ff1d claymore
@@ -21,15 +17,11 @@ mem 22ff1d +300 +300 +300 +300 +300 +300 +300 +300
 loc 240855 a2
 loc c8bba2 a3
 loc c720ee a4
-miner c720ee ccminer
-pwr c720ee 180 180 180 180 180 180 180 180
 loc c8bae6 a5
 loc c8baca b1
 loc c71ea0 b2
 loc c63f85 b3
 loc 24093e b4
-miner 24093e ccminer
-pwr 24093e 180 180 180 180 180 180 180 180
 loc 240979 b5
 loc c8baec c1
 loc c8bae4 c2
@@ -43,13 +35,12 @@ loc c7210f d4
 loc 240832 d5
 loc c72130 e1
 loc c8bade e2
-pwr c8bade 130 130 130 130 130 130 130
+pwr c8bade 130 130 130 130 130 130 130 130
 loc c8bbc2 e3
 pwr c8bbc2 130 130 130 130 130 130 130 130
 loc 508547 e4
 loc 22fcea f1
-pwr 22fcea 150 150 150 150 150 150 150 150
-miner 22fcea dstm-zcash
+pwr 22fcea 130 130 130 130 130 130 130 130
 loc c8bae0 f2
 pwr c8bae0 130 130 130 130 130 130 130 130
 loc 4c6fbc f3
