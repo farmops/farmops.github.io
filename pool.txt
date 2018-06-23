@@ -26,6 +26,7 @@ loc c8baca b1
 loc c71ea0 b2
 loc c63f85 b3
 loc 24093e b4
+miner 24093e ccminer
 loc 240979 b5
 loc c8baec c1
 loc c8bae4 c2
