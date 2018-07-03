@@ -52,3 +52,4 @@ loc 508592 vb4
 loc 063717 vc4
 loc b78dda ve1
 loc 294b42 ve5
+mem 294b42 0 0 0 0 0 0 0 0
