@@ -47,9 +47,8 @@ pwr c8bae0 130 130 130 130 130 130 130 130
 loc 4c6fbc f3
 loc 5085e7 f4
 pwr 5085e7 130 130 200 200 130 130 200 200
+loc 0634c6 va5
 loc c83db2 vb3
 loc 508592 vb4
 loc 063717 vc4
 loc b78dda ve1
-loc 294b42 ve5
-mem 294b42 0 0 0 0 0 0 0 0
