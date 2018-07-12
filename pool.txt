@@ -1,6 +1,6 @@
 globalminer claymore
 globalpowertune 200
-globalmem +300
+globalmem +200
 maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
@@ -52,3 +52,29 @@ loc c83db2 vb3
 loc 508592 vb4
 loc 063717 vc4
 loc b78dda ve1
+loc b77da4 sa1
+loc b71027 sa2
+loc c39b82 sa3
+loc c39ef1 sa4
+loc b70fea sa5
+loc b77dd6 sb1
+loc 273189 sb2
+loc 273177 sb3
+loc b77d61 sb4
+loc c39fa2 sb5
+loc b71085 sc1
+loc c39c0d sc2
+loc c39d3c sc3
+loc b77dd9 sc4
+loc c3a00b sd1
+loc 2731c4 sd2
+loc b77d55 sd3
+loc c39e5f sd4
+loc b71075 sd5
+loc 27319e se1
+loc c39dd1 se2
+loc b70f07 se3
+loc c39ceb se4
+loc b77d5e sf1
+loc c39bbf sf2
+loc c39d08 sf3
