@@ -1,6 +1,4 @@
 globalminer claymore
-globalpowertune 200
-globalmem +200
 maxgputemp 95
 custompanel farmop111111
 stratumproxy enabled
