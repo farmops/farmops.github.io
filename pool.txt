@@ -1,7 +1,7 @@
 globalminer claymore
 maxgputemp 95
 autoreboot true
-autoreboot 9
+autoreboot 30
 custompanel farmop111111
 stratumproxy enabled
 #dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
