@@ -7,7 +7,7 @@ stratumproxy enabled
 #dstm-zcash=proxywallet t1b76MtkUm7vfi7WncnAkv5aMxAHMN8p6eV
 #dstm-zcash=proxypool1 us1-zcash.flypool.org:3333
 #dstm-zcash=proxypool2 zec.2miners.com:1010
-claymore=proxywallet 0xdfD76534e898D9183b85a87cEb4806122A39F696
+claymore=proxywallet 0xe8a2255045c2ec13fad26694c7c7f56383df1010
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags -colors 1
